@@ -111,12 +111,12 @@ Write a function called `make_phrase` that takes as input the necessary informat
 and returns a phrase.  For example, 
 
 ```{r}
-make_phrase(num = 10, 
-            num_word = "ten", 
-            item = "lords", 
-            verb = "a-leaping", 
-            adjective = "", 
-            location = "")
+#make_phrase(num = 10, 
+#            num_word = "ten", 
+#           item = "lords", 
+#            verb = "a-leaping", 
+#            adjective = "", 
+#            location = "")
 ```
 
 should return
